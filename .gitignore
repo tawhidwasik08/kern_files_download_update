@@ -1,0 +1,7 @@
+Datasets/*
+Downloads/*
+*.docx
+Scripts/kern_venv
+Scripts/__pycache__/
+Scripts/server_info.py
+Scripts/sftp.kern
